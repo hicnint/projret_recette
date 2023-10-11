@@ -1,0 +1,9 @@
+{
+	"name": "tauxdesuicideparpays",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8f436ec2-20d4-41ce-8927-f9833a9021e8",
+		"tenantId": "abd62395-d101-4f42-a955-18d7515b08d9"
+	}
+}
